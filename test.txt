@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 main_hello
-=======
-qwqwq
-asdasd
->>>>>>> mylocal
